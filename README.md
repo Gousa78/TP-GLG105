@@ -6,7 +6,7 @@
 - Installation de Git. Téléchargement ici : https://git-scm.com/downloads
 - Configuration de Git. Association des commits aux noms et adresse e-mail
 - Création d'un compte Github
-- Enregistrement assignement Github Classroom : https://classroom.github.com/a/C57o1aNQ
+- Enregistrement assignement Github Classroom : https://classroom.github.com/a/zSO6RjhJ
 
 ## TD1
 - Créer un repository "MonDepot"
