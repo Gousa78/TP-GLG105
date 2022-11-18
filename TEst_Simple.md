@@ -5,16 +5,18 @@
 Installation sous Windows   https://git-scm.com/download/
  
 Vérification de l’installation
-
 `$` `git --version`
 
-
 Mise à jour version git
-
 `$`  `update-git-for-windows`
 
 
 Aide en ligne
+
+|$ git –help|
+|----------------|
+|$ git help git|
+
 
 `$`  `git –help`
 
