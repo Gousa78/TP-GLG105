@@ -29,6 +29,10 @@ Ajout du fichier zone staging
 
 `$` `git add MonFichier.txt`
 
+Visualisation du dépôt
+
+`$` `git status`
+
 Commit du code
 
 `$` `git commit -m "Mon 1er commit"`
@@ -40,7 +44,7 @@ Exclusion de fichiers
 - Ajout code
 
     `$` `echo "error processing" >> error.log`
-- 
+
 - Création fichier exclusion
 
     `$`  `touch .gitignore`
@@ -51,8 +55,12 @@ Exclusion de fichiers
 
 Ajout des fichiers zone staging
 
-`$` `git add MonFichier.txt, .gitignore`
+`$` `git add MonFichier.txt .gitignore`
 
 Commit du code
 
 `$` `git commit -m "Ajout fichier git ignore"`
+
+Visualisation du dépôt
+
+`$` `git status`
