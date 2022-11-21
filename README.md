@@ -11,27 +11,33 @@
 ## TD1
 - Créer un repository "MonDepot"
 - Vérifier le résultat 
-- Créer un fichier "MonFichier.txt"
+- Créer un fichier `MonFichier.txt`
 - Vérifier le résultat
 - Prise en compte du fichier créé dans le repository
 - Vérifier le résultat
-- Créer un fichier "error.log" contenant "Error processing"
-- Mettre en place un méchanisme afin de ne pas prendre en compte dans le repository le fichier "error.log"
+- Créer un fichier `error.log` contenant "Error processing"
+- Mettre en place un méchanisme afin de ne pas prendre en compte dans le repository le fichier `error.log`
   - **Remarque** : Ce méchanisme devrait être inclus dans le repository
 
 ## TD2
-- Relever les 6 1er chiffres du SHA-1 du 1er commit et enregistrez les dans un fichier "histo.txt" que vous ajoutez au
+- Relever les 6 1er chiffres du SHA-1 du 1er commit et enregistrez les dans un fichier `historique.txt` que vous ajoutez au
 dépôt
-- Modifier le fichier "MonFichier.txt"
-- Visualiser les modifications effectuées dans "MonFichier.txt" et enregistrez les dans un fichier "diff.txt" que vous ajoutez au
+- Modifier le fichier `MonFichier.txt`
+- Visualiser les modifications effectuées dans "MonFichier.txt" et enregistrez les dans un fichier `diff.txt` que vous ajoutez au
 dépôt
-> Sous un shell linux vous pouvez utiliser `>` pour que la sortie standard soit redirigée sur un
-fichier.
-> Par exemple `ls -l > liste.txt` écrit la liste des fichiers du répertoire courant dans le fichier
-liste.txt.
+  - ***Note:*** Sous un shell linux vous pouvez utiliser `>` pour que la sortie standard soit redirigée sur un fichier.
+  - Par exemple `ls -l > liste.txt` écrit la liste des fichiers du répertoire courant dans le fichier liste.txt.
+- Visualiser les modifications effectuées dans `MonFichier.txt`
+  -  Comparer le résultat avec le contenu du fichier `diff.txt`
 - Committer ces deux fichiers
+- Lancer GITK
 
 ## TD3
+- Créer un fichier `test.tx`
+- Ajouter le à la zone staging
+- Corriger le nom du fichier par `test.txt` de deux manières différentes
+
+## TD4
 - Pousser ensuite les commits effectués sur le dépôt distant
 - Donner une version au dépôt local
 - Afficher la description de l'étiquette créée
