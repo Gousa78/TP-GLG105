@@ -13,9 +13,9 @@ Mise à jour version git
 
 Aide en ligne
 
-|$ git –help|
+|`$ git –help`|
 |----------------|
-|$ git help git|
+|`$` `git help git`|
 
 
 `$`  `git –help`
