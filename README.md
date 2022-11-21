@@ -20,16 +20,14 @@
   - **Remarque** : Ce méchanisme devrait être inclus dans le repository
 
 ## TD2
-- Faire un premier commit
-- Vérifier le résultat
-- Relever les 6 1er chiffres du SHA-1 et enregistrez les dans un fichier "histo.txt" que vous ajoutez au
+- Relever les 6 1er chiffres du SHA-1 du 1er commit et enregistrez les dans un fichier "histo.txt" que vous ajoutez au
 dépôt
 - Modifier le fichier "MonFichier.txt"
 - Visualiser les modifications effectuées dans "MonFichier.txt" et enregistrez les dans un fichier "diff.txt" que vous ajoutez au
 dépôt
-> Sous un shell linux vous pouvez utiliser > pour que la sortie standard soit redirigée sur un
+> Sous un shell linux vous pouvez utiliser `>` pour que la sortie standard soit redirigée sur un
 fichier.
-> Par exemple ls -l > liste.txt écrit la liste des fichiers du répertoire courant dans le fichier
+> Par exemple `ls -l > liste.txt` écrit la liste des fichiers du répertoire courant dans le fichier
 liste.txt.
 - Committer ces deux fichiers
 
