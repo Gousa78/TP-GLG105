@@ -20,11 +20,9 @@
   - **Remarque** : Ce méchanisme devrait être inclus dans le repository
 
 ## TD2
-- Relever les 6 1er chiffres du SHA-1 du 1er commit et enregistrez les dans un fichier `historique.txt` que vous ajoutez au
-dépôt
+- Relever les 6 1er chiffres du SHA-1 du 1er commit et enregistrez les dans un fichier `historique.txt` que vous ajoutez au dépôt
 - Modifier le fichier `MonFichier.txt`
-- Visualiser les modifications effectuées dans "MonFichier.txt" et enregistrez les dans un fichier `diff.txt` que vous ajoutez au
-dépôt
+- Visualiser les modifications effectuées dans `MonFichier.txt`, enregistrez les dans un fichier `diff.txt` en indiquant le numéro du TD et ajoutez au dépôt
   - ***Note:*** Sous un shell linux vous pouvez utiliser `>` pour que la sortie standard soit redirigée sur un fichier.
   - Par exemple `ls -l > liste.txt` écrit la liste des fichiers du répertoire courant dans le fichier liste.txt.
 - Visualiser les modifications effectuées dans `MonFichier.txt`
@@ -38,7 +36,28 @@ dépôt
 - Corriger le nom du fichier par `test.txt` de deux manières différentes
 
 ## TD4
-- Pousser ensuite les commits effectués sur le dépôt distant
-- Donner une version au dépôt local
+- Visualiser les modifications entre 1er commit et le dernier
+  - Enregistrez les dans un fichier `historique.txt` en indiquant le numéro du TD4.1
+- Visualiser les modifications du fichier `MonFichier.txt`
+  - Enregistrez les dans un fichier `historique.txt` en indiquant le numéro du TD4.2
+ - Ajouter au dépôt
+
+## TD5
+- Créer une branche nommée `dev`
+- Visualiser les banches
+  - Indiquer la branche sur laquelle vous vous trouvez
+- Aller sur la branche `dev`
+  - Visualisation du repository
+- Créer un fichier `glg105.txt`
+  - Ajouter le au repository
+  - Retourner sur la branche `master`
+  - Quelle est votre constat?
+  
+## TD6
+- Donner une version au dépôt localh
 - Afficher la description de l'étiquette créée
-- Mettre à jour le dépôt distant
+- Merger la branche `dev`avec la branche `master`
+- Supprimer la branche `dev`
+- Que constatez-vous?
+
+
