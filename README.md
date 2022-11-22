@@ -61,4 +61,6 @@
 - Supprimer la branche `dev`
 - Que constatez-vous?
 
-
+## TD7
+- Retouver le SHA1 du fichier `MonFichier.txt`
+- Afficher son contenu en utilisant le SHA1 
