@@ -54,7 +54,7 @@
   - Quelle est votre constat?
   
 ## TD6
-- Donner une version au dépôt localh
+- Donner une version au dépôt local `v1.0.0`
 - Afficher la description de l'étiquette créée
 - Merger la branche `dev`avec la branche `master`
 - Supprimer la branche `dev`
