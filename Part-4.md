@@ -50,3 +50,11 @@ Création d'une version
 Merge branche et suppression
 1. `$` `git merge dev`
 2. `$` `git branch -d dev`
+
+## TD7
+
+### Les fichiers
+************************
+1. `$` `git ls-tree HEAD
+2. `$` git cat-file -p ÌdenBlob`
+
