@@ -36,7 +36,7 @@ Positionnement sur la branche `master`
 
 `$` `git checkout master`
 
-## TD5
+## TD5 & 6
 
 ### Les tags & merge
 ************************
