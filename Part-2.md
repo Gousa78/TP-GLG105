@@ -11,7 +11,7 @@ Création du repository
 
 `$` `cd MonDepot`
 
-`$` `git int`
+`$` `git init`
  
 Visualisation du dépôt
 
@@ -51,7 +51,7 @@ Exclusion de fichiers
 
 - Ajout code
 
-    `$` `echo "*.log" >> error.log`
+    `$` `echo "*.log" >> .gitignore`
 
 Ajout des fichiers zone staging
 
