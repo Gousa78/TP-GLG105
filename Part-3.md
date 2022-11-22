@@ -19,7 +19,7 @@ Visualisation du dépôt
 
 `$` `git status`
 
-Ajour des fihciers dans staging
+Ajour des fichiers dans staging
 
 `$`  `git add .`
 
