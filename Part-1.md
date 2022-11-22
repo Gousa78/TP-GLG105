@@ -10,7 +10,7 @@ Vérification de l’installation
 
 Mise à jour version git
 
-`$`  `update-git-for-windows`
+`$`  `git update-git-for-windows`
 
 
 Aide en ligne
