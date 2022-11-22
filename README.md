@@ -22,12 +22,13 @@
 ## TD2
 - Relever les 6 1er chiffres du SHA-1 du 1er commit et enregistrez les dans un fichier `historique.txt` que vous ajoutez au dépôt
 - Modifier le fichier `MonFichier.txt`
-- Visualiser les modifications effectuées dans `MonFichier.txt`, enregistrez les dans un fichier `diff.txt` en indiquant le numéro du TD et ajoutez au dépôt
-  - ***Note:*** Sous un shell linux vous pouvez utiliser `>` pour que la sortie standard soit redirigée sur un fichier.
-  - Par exemple `ls -l > liste.txt` écrit la liste des fichiers du répertoire courant dans le fichier liste.txt.
+- Visualiser les modifications effectuées dans `MonFichier.txt`
+  - Enregistrez les dans un fichier `diff.txt` en indiquant le numéro du TD et ajoutez au dépôt
+    - ***Note:*** Sous un shell linux vous pouvez utiliser `>` pour que la sortie standard soit redirigée sur un fichier.
+    - Par exemple `ls -l > liste.txt` écrit la liste des fichiers du répertoire courant dans le fichier liste.txt.
 - Visualiser les modifications effectuées dans `MonFichier.txt`
   -  Comparer le résultat avec le contenu du fichier `diff.txt`
-- Committer ces deux fichiers
+- Committer les fichiers
 - Lancer GITK
 
 ## TD3
@@ -54,7 +55,7 @@
   - Quelle est votre constat?
   
 ## TD6
-- Donner une version au dépôt local `v1.0.0`
+- Donner une version au dépôt localh
 - Afficher la description de l'étiquette créée
 - Merger la branche `dev`avec la branche `master`
 - Supprimer la branche `dev`
