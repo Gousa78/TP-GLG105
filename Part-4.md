@@ -55,6 +55,6 @@ Merge branche et suppression
 
 ### Les fichiers
 ************************
-1. `$` `git ls-tree HEAD
-2. `$` git cat-file -p ÌdenBlob`
+1. `$` `git ls-tree HEAD`
+2. `$` `git cat-file -p ÌdenBlob`
 
